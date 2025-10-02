@@ -12,7 +12,7 @@
           <Start v-if="!isChatting" />
 
           <!-- Chat Screen -->
-          <Chat v-if="isChatting" />
+          <Chat v-else />
         </div>
       </div>
     </div>
