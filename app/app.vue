@@ -171,3 +171,12 @@
     </div>
   </div>
 </template>
+
+<style>
+html,
+body,
+#__nuxt{
+  height: 100%;
+  width: 100%;
+}
+</style>
